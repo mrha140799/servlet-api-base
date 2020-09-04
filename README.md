@@ -1,5 +1,5 @@
 ## This is base project Java Servlet API
-- References:[Restful Web Services Tutorial in Java](https://www.journaldev.com/9170/restful-web-services-tutorial-java)
+- References: [Restful Web Services Tutorial in Java](https://www.journaldev.com/9170/restful-web-services-tutorial-java)
 - Steps:
 ```
 1. In porm.xml:
