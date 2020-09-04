@@ -1,4 +1,4 @@
-## This is base project Java Servlet API
+## This is a base project Java Servlet API
 - References: [Restful Web Services Tutorial in Java](https://www.journaldev.com/9170/restful-web-services-tutorial-java)
 - Steps:
 ```
